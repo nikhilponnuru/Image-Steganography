@@ -1,4 +1,4 @@
-# 2-Way_steganography
+# 2-Way_Steganography
 This application Provides 2 options for achieving Steganography(Audio and Image) with Email and Image filtering
     
     This Swings application has facilities like:-
