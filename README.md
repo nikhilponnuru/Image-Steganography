@@ -1,4 +1,4 @@
-# 2-Way_Steganography
+Email-Steganography
 
     This Swings application will have facilities like:-
     
